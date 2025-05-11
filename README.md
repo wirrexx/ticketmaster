@@ -8,8 +8,8 @@
 ## ---------- Dependencies install -------
 ### Please install the dependencies first
 #### 1. Create the Virtual Enviroment
-#### - python -m venv .<insert name>
-#### - activate the venv source .<insert name>/bin/activate (macos) || source .<insert name>/scripts/activate (windows)
+#### - python -m venv .<insert>name
+#### - activate the venv source .<insert>name/bin/activate (macos) || source .<insert name>/scripts/activate (windows)
 #### - In terminal install depencencies pip install -r requirements.txt
 
 ## --------- Set Path --------
