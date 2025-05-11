@@ -3,6 +3,7 @@
 ## ----------- Installation ----------
 #### !Currently working only on Arm64 (mac silicon) and with chrome! 
 #### !Download chromedriver and make sure that your chrome browser and chromedriver are the same version!
+#### !To make it work with your browser (Firefox or Chrome) you need to download the correct webdriver and make sure to direct the path to it!
 
 ## ---------- Dependencies install -------
 ### Please install the dependencies first
